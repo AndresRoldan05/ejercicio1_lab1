@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/web/registroA.jsp</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/java/com/top/ejb/AbstractFacade.java</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/web/registroC.jsp</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/java/com/top/entity/Ventas.java</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/web/index.html</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/java/com/top/ejb/ClientesFacade.java</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/java/com/top/servlet/concesionarioservlet.java</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/java/com/top/ejb/VentasFacadeLocal.java</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/java/com/top/ejb/ClientesFacadeLocal.java</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/java/com/top/ejb/VentasFacade.java</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/java/com/top/entity/Clientes.java</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/java/com/top/ejb/CarrosFacade.java</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/web/listadoC.jsp</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/web/registroV.jsp</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/web/listadoV.jsp</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/java/com/top/entity/Carros.java</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/web/login.jsp</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/java/com/top/ejb/CarrosFacadeLocal.java</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/web/index.jsp</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/web/menu.jsp</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/Andres/Documents/NetBeansProjects/concesionario/web/listadoA.jsp</file>
+        </group>
+    </open-files>
+</project-private>
